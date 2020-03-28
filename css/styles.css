@@ -2445,3 +2445,22 @@ p {
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
 }
+
+.uk-card-media-top {
+  height: 50%;
+  width: 50%;
+}
+
+.uk-card-body {
+  height: 65%;
+  width: 65%;
+  padding: 5px;
+
+}
+
+.ytp-cued-thumbnail-overlay-image {
+  height: 15%;
+  width: 15%;
+  padding: 5px;
+
+}
