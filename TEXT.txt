@@ -1,0 +1,177 @@
+ .......... Tour Section  LINE 196.......... -->
+    <section id="tour" class="events uk-section" data-uk-scrollspy="cls:uk-animation-fade; offset-top: 80px; delay: 300">
+        <div class="container--min uk-container">
+            <h2 class="uk-h2 uk-margin-bottom">Tour</h2>
+            <div class="events__table list--striped bg-dark--1">
+                <!-- .......... Tour Item .......... -->
+                <div class="list__item">
+                    <div class="events__date uk-width-auto">
+                        <span class="events__day">31</span>
+                        <span class="events__month">dec</span>
+                        <span class="events__year">2020</span>
+                    </div>
+                    <div class="events__location uk-width-expand">
+                        <span class="events__place">Amsterdam NL</span>
+                        <span class="events__club">Ziggo Dome</span>
+                    </div>
+                    <div class="events__booking uk-width-1-1 uk-width-1-3@s">
+                        <span class="btn btn--disabled">Sold Out</span>
+                    </div>
+                </div>
+                <!-- .......... End Tour Item .......... -->
+                <!-- .......... Tour Item .......... -->
+                <div class="list__item">
+                    <div class="events__date uk-width-auto">
+                        <span class="events__day">05</span>
+                        <span class="events__month">feb</span>
+                        <span class="events__year">2020</span>
+                    </div>
+                    <div class="events__location uk-width-expand">
+                        <span class="events__place">Milan IT</span>
+                        <span class="events__club">Mediolanum Forum</span>
+                    </div>
+                    <div class="events__booking uk-width-1-1 uk-width-1-3@s">
+                        <span class="btn btn--disabled">Sold Out</span>
+                    </div>
+                </div>
+                <!-- .......... End Tour Item ..........
+                <!-- .......... Tour Item .......... -->
+                <div class="list__item">
+                    <div class="events__date uk-width-auto">
+                        <span class="events__day">12</span>
+                        <span class="events__month">mar</span>
+                        <span class="events__year">2020</span>
+                    </div>
+                    <div class="events__location uk-width-expand">
+                        <span class="events__place">Manchester UK</span>
+                        <span class="events__club">Manchester Arena</span>
+                    </div>
+                    <div class="events__booking uk-width-1-1 uk-width-1-3@s">
+                        <a href="#" class="btn">Book tickets</a>
+                    </div>
+                </div>
+                <!-- .......... End Tour Item .......... -->
+                <!-- .......... Tour Item .......... -->
+                <div class="list__item">
+                    <div class="events__date uk-width-auto">
+                        <span class="events__day">27</span>
+                        <span class="events__month">apr</span>
+                        <span class="events__year">2020</span>
+                    </div>
+                    <div class="events__location uk-width-expand">
+                        <span class="events__place">Hamburg DE</span>
+                        <span class="events__club">Barclaycard Arena</span>
+                    </div>
+                    <div class="events__booking uk-width-1-1 uk-width-1-3@s">
+                        <span class="btn btn--disabled">Sold out</span>
+                    </div>
+                </div>
+                <!-- .......... End Tour Item .......... -->
+                <!-- .......... Tour Item .......... -->
+                <div class="list__item">
+                    <div class="events__date uk-width-auto">
+                        <span class="events__day">08</span>
+                        <span class="events__month">may</span>
+                        <span class="events__year">2020</span>
+                    </div>
+                    <div class="events__location uk-width-expand">
+                        <span class="events__place">Belfast GB</span>
+                        <span class="events__club">SSE Arena</span>
+                    </div>
+                    <div class="events__booking uk-width-1-1 uk-width-1-3@s">
+                        <a href="#" class="btn">Book tickets</a>
+                    </div>
+                </div>
+                <!-- .......... End Tour Item .......... -->
+                <!-- .......... Tour Item .......... -->
+                <div class="list__item">
+                    <div class="events__date uk-width-auto">
+                        <span class="events__day">14</span>
+                        <span class="events__month">jun</span>
+                        <span class="events__year">2020</span>
+                    </div>
+                    <div class="events__location uk-width-expand">
+                        <span class="events__place">Dublin IE</span>
+                        <span class="events__club">3Arena</span>
+                    </div>
+                    <div class="events__booking uk-width-1-1 uk-width-1-3@s">
+                        <a href="#" class="btn">Book tickets</a>
+                    </div>
+                </div>
+                <!-- .......... End Tour Item .......... -->
+                <!-- .......... Tour Item .......... -->
+                <div class="list__item">
+                    <div class="events__date uk-width-auto">
+                        <span class="events__day">28</span>
+                        <span class="events__month">jul</span>
+                        <span class="events__year">2020</span>
+                    </div>
+                    <div class="events__location uk-width-expand">
+                        <span class="events__place">Tulsa, OK</span>
+                        <span class="events__club">BOK Center</span>
+                    </div>
+                    <div class="events__booking uk-width-1-1 uk-width-1-3@s">
+                        <a href="#" class="btn">Book tickets</a>
+                    </div>
+                </div>
+                <!-- .......... End Tour Item .......... -->
+            </div>
+        </div>
+    </section>
+    <!-- .......... End Tour Section .......... -->
+
+
+                  <!-- .......... News Item LINE 1097.......... -->
+                    <li>
+                        <div class="uk-card">
+                            <div class="uk-card-media-top">
+                                <a href="#" data-uk-toggle="target: #article-0" class="cover__photo uk-background-cover uk-transition-toggle" data-src="img/news/02.jpg" data-uk-img>
+                                    <span class="cover__link boxshadow icon icon--dots uk-transition-scale-up"></span>
+                                </a>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="news__title">Mike, Evan, Carlo Project#2 has released on Heroku</h3>
+                                <div class="uk-flex uk-flex-middle uk-flex-between">
+                                    <div class="events__date uk-width-auto">
+                                        <span class="events__day">28</span>
+                                        <span class="events__month">apr</span>
+                                        <span class="events__year">2019</span>
+                                    </div>
+                                    <a href="#" data-uk-toggle="target: #article-0" class="news__more btn btn--more">Read More<span class="icon icon--dots"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <!-- .......... End News Item .......... -->
+                </ul>
+                <!-- .......... News Slider Controls .......... -->
+                <a class="slider__control uk-position-center-left" href="#" data-uk-slidenav-previous data-uk-slider-item="previous"></a>
+                <a class="slider__control uk-position-center-right" href="#" data-uk-slidenav-next data-uk-slider-item="next"></a>
+                <!-- .......... End News Slider Controls .......... -->
+            </div>
+        </div>
+    </section>
+    <!-- .......... End News Section .......... -->
+
+                <!-- .......... News Item .......... -->
+                    <li>
+                        <div class="uk-card">
+                            <div class="uk-card-media-top">
+                                <a href="#" data-uk-toggle="target: #article-2" class="cover__photo uk-background-cover uk-transition-toggle" data-src="img/news/01.jpg" data-uk-img>
+                                    <span class="cover__link boxshadow icon icon--dots uk-transition-scale-up"></span>
+                                </a>
+                            </div>
+                            <div class="uk-card-body">
+                                <h3 class="news__title"> I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents</h3>
+                                <div class="uk-flex uk-flex-middle uk-flex-between">
+                                    <div class="events__date uk-width-auto">
+                                        <span class="events__day">31</span>
+                                        <span class="events__month">may</span>
+                                        <span class="events__year">2019</span>
+                                    </div>
+                                    <a href="#" data-uk-toggle="target: #article-2" class="news__more btn btn--more">Read more<span class="icon icon--dots"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <!-- .......... End News Item .......... -->
