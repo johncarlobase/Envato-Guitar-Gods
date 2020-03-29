@@ -153,25 +153,4 @@
     </section>
     <!-- .......... End News Section .......... -->
 
-                <!-- .......... News Item .......... -->
-                    <li>
-                        <div class="uk-card">
-                            <div class="uk-card-media-top">
-                                <a href="#" data-uk-toggle="target: #article-2" class="cover__photo uk-background-cover uk-transition-toggle" data-src="img/news/01.jpg" data-uk-img>
-                                    <span class="cover__link boxshadow icon icon--dots uk-transition-scale-up"></span>
-                                </a>
-                            </div>
-                            <div class="uk-card-body">
-                                <h3 class="news__title"> I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents</h3>
-                                <div class="uk-flex uk-flex-middle uk-flex-between">
-                                    <div class="events__date uk-width-auto">
-                                        <span class="events__day">31</span>
-                                        <span class="events__month">may</span>
-                                        <span class="events__year">2019</span>
-                                    </div>
-                                    <a href="#" data-uk-toggle="target: #article-2" class="news__more btn btn--more">Read more<span class="icon icon--dots"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <!-- .......... End News Item .......... -->
+                
